@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-cli",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "taskcli": "./src/cli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "inquirer": "^10.2.2"
+  }
+}
