@@ -1,5 +1,11 @@
 # Task Tracker CLI
 
+### Technologyes:
+* Language: Javascript
+* Runtime Environment: Node.JS
+* Framework/Library: Commander
+* Storage: .Json file
+
                 𝕬zzᥲzᥱᥣ / 𝕬zzᥲzᥱrᥙ
 
 ⠤⠤⠤⠤⠤⠤⢤⣄⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
